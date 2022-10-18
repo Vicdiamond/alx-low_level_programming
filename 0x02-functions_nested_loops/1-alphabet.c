@@ -14,15 +14,3 @@ void print_alphabet(void)
 	}
 	_putchar('\n');
 }
-/**
- * main - entry point of the program
- *
- * Description: it performs the task given
- * Return: 0
- */
-
-int main(void)
-{
-	print_alphabet();
-	return (0);
-}
