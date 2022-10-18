@@ -5,8 +5,9 @@
  * Description: it performs the task given
  * Return: 0
  */
-int print_alphabet(void)
+void print_alphabet(void)
 {
+	int c;
 	for (char c = 'a'; c <= 'z'; c++)
 	{
 		_putchar(c);
