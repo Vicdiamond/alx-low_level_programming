@@ -13,8 +13,8 @@ int main(void)
 
 	for (c = 0; c < 8; c++)
 	{
-		putchar(fun[c]);
+		_putchar(fun[c]);
 	}
-	putchar('\n');
+	_putchar('\n');
 	return (0);
 }
