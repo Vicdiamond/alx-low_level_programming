@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include main.h
 /**
  * print_alphabet - it prints the alphabets in small letters
  *
