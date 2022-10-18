@@ -7,7 +7,7 @@
  */
 void print_alphabet(void)
 {
-	int c;
+	char c;
 	for (char c = 'a'; c <= 'z'; c++)
 	{
 		_putchar(c);
