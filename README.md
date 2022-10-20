@@ -1,1 +1,1 @@
-This repository is about tasks given on the introduction to the C langague
+This directory touch on debugging in C language
